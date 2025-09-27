@@ -3,12 +3,14 @@ Creating [Smash Bors](https://github.com/Vince-0/smash-bors) because I misspelt 
 
 A continuation from [Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding) where I created [BTCNMAN](https://github.com/Vince-0/btcnman) using [Augment Code](https://www.augmentcode.com/).
 
-## For fun
-I saw [ThreeJS](https://threejs.org/) web games from [Pieter](https://x.com/levelsio): [Fly game](fly.pieter.com) and [2025 Vibe Coding Gae Jam](https://jam.pieter.com/). I wanted to try put out the vibe.
+## Put out the vibe
+I saw [ThreeJS](https://threejs.org/) web games from [Pieter](https://x.com/levelsio): [Fly game](fly.pieter.com) and [2025 Vibe Coding Gae Jam](https://jam.pieter.com/).
 
 This probably took way more time than it should but I had some fun tinkering with it and it sat in a folder for a long while before putting up a demo.
 
-I didn't use any development processes like unit testing, GitHub workflows or design documentation, I just vibed with a [task list](https://github.com/Vince-0/smash-bors/blob/76dd1b421659ffb7766d628d22811e4cd46d2d44/.augment/augment-tasklist).
+I didn't use any development processes like unit testing, GitHub workflows or design documentation.
+
+I just vibed with a [task list](https://github.com/Vince-0/smash-bors/blob/76dd1b421659ffb7766d628d22811e4cd46d2d44/.augment/augment-tasklist). By listing tasks for features, physics, gameplay, visual and infrastructure code, I moved tasks to complete status once I had manually tested the implementations.
 
 Augment Code pulled in open assets like:
 
