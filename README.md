@@ -8,7 +8,13 @@ I saw [ThreeJS](https://threejs.org/) web games from [Pieter](https://x.com/leve
 
 This probably took way more time than it should but I had some fun tinkering with it and it sat in a folder for a long while before putting up a demo.
 
-I didn't use any development processes like unit testing, GitHub workflows or design documentation, I just vibed.
+I didn't use any development processes like unit testing, GitHub workflows or design documentation, I just vibed with a [task list](https://github.com/Vince-0/smash-bors/blob/76dd1b421659ffb7766d628d22811e4cd46d2d44/.augment/augment-tasklist).
+
+Augment Code pulled in open assets like:
+
+- 8-bit sound effects from [OpenGameArt.org](https://opengameart.org/content/512-sound-effects-8-bit-style)
+- Minecraft skins from [Mojang.com](https://api.mojang.com)
+- Tetris style graphics
 
 Try here: [Demo](http://open-stock.bnr.la:3000), fight your friends.
 
