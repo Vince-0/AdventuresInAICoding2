@@ -13,7 +13,7 @@ I didn't use any development processes like unit testing, GitHub workflows or de
 Augment Code pulled in open assets like:
 
 - 8-bit sound effects from [OpenGameArt.org](https://opengameart.org/content/512-sound-effects-8-bit-style)
-- Minecraft skins from [Mojang.com](https://api.mojang.com)
+- Minecraft skins from [API.Mojang.com](https://api.mojang.com)
 - Tetris style graphics
 
 Try here: [Demo](http://open-stock.bnr.la:3000), fight your friends.
