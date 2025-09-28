@@ -4,7 +4,7 @@ Creating [Smash Bors](https://github.com/Vince-0/smash-bors) because I misspelt 
 A continuation from [Adventures In AI Coding](https://github.com/Vince-0/AdventuresInAICoding) where I created [BTCNMAN](https://github.com/Vince-0/btcnman) using [Augment Code](https://www.augmentcode.com/).
 
 ## Put out the vibe
-I saw [ThreeJS](https://threejs.org/) web games from [Pieter](https://x.com/levelsio): [Fly game](fly.pieter.com) and [2025 Vibe Coding Gae Jam](https://jam.pieter.com/).
+I saw [ThreeJS](https://threejs.org/) web games from [Pieter](https://x.com/levelsio): [Fly game](https://fly.pieter.com/) and [2025 Vibe Coding Gae Jam](https://jam.pieter.com/).
 
 This probably took way more time than it should but I had some fun tinkering with it and it sat in a folder for a long while before putting up a demo.
 
